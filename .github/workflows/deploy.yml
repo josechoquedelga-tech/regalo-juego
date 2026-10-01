@@ -21,7 +21,6 @@ jobs:
     - name: Publish .NET Project
       run: dotnet publish -c Release -o release --nologo
       
-    # OJO: Aquí ya puse la nueva ruta "regalo-juego"
     - name: Change base-tag in index.html
       run: sed -i 's/<base href="\/" \/>/<base href="\/regalo-juego\/" \/>/g' release/wwwroot/index.html
       
