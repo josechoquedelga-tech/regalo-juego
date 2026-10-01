@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "regalo-juego",
   "resources": {
-    "hash": "sha256-Plo+QNsstG1TOgpA32WGniklR47LBaEKaJ48P0plxW8=",
+    "hash": "sha256-nvSCcudY9QY/Xfa5wCQjQvRcXOoWX64Xg599JPST9ao=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-9NoXeVUo4WNrEqrjAp/y3Yc8NmDcymQkzMGOIbIpGio="
     },
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-O9J5LVSn3IUZjcdAD9rFd2/VWzm1NGroLPon09+Cadc=",
       "System.Text.RegularExpressions.wasm": "sha256-lK8igXz6npoSb7Io1fWfKQ6WRHx+mJ4AGIL9l8Mh5W8=",
       "System.Private.CoreLib.wasm": "sha256-6lRHfNtFOcQaf9JeQ2i4+xx28Qy67qf5l+0n9T9pNQU=",
-      "regalo-juego.wasm": "sha256-9gQSfhBa22epXadkzPJqLh9jXtUPs+NNvcZn554ENu8="
+      "regalo-juego.wasm": "sha256-d2XenW9Nkthk8NUDbm+QtyUzSzD3pqJD2wCn+81Wz1Y="
     }
   },
   "cacheBootResources": true,
